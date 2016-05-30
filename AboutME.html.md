@@ -1,5 +1,5 @@
 # Jasmine Jones
-![img](https://scontent.xx.fbcdn.net/v/t1.0-9/10408548_980271818651042_371117753905634205_n.jpg?oh=f0500e30c028de67d62a6a36345ab24a&oe=57D3B3C8 =10x20)
+![img](https://scontent.xx.fbcdn.net/v/t1.0-9/10408548_980271818651042_371117753905634205_n.jpg?oh=f0500e30c028de67d62a6a36345ab24a&oe=57D3B3C8 width"10")
 
 I am from the D(**Maryland**)V. ![img](https://pixabay.com/static/uploads/photo/2015/08/16/05/20/maryland-890635_960_720.png)
 
