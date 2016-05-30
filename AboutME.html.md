@@ -3,9 +3,9 @@
 
 I am from the D(**Maryland**)V. <img src="https://pixabay.com/static/uploads/photo/2015/08/16/05/20/maryland-890635_960_720.png" width="100">
 
-I am **19** years old. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/19_logo_new.svg/2000px-19_logo_new.svg.png" width="100">
+I am **19** years old. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/19_logo_new.svg/2000px-19_logo_new.svg.png" width="75">
 
-## I <img src="https://pixabay.com/static/uploads/photo/2015/12/09/19/16/love-1085310_960_720.png" width="100">
+## I <img src="https://pixabay.com/static/uploads/photo/2015/12/09/19/16/love-1085310_960_720.png" width="50">
 * Food
 * Music
 * Dancing
